@@ -57,7 +57,6 @@ nav{
     color: #3498db;
 }
 
-/* ---- Pure CSS mobile menu (checkbox hack, no JS) ---- */
 .menu-toggle-checkbox{
     position: absolute;
     opacity: 0;
@@ -134,7 +133,6 @@ nav{
     color: #3498db;
 }
 
-/* ---- Home / hero section (dark, matches contact section) ---- */
 .home-section {
     width: 100%;
     min-height: 100vh;
@@ -366,7 +364,6 @@ section{
     border: 10px solid;
 }
 
-/* Cohesive palette built off the site's blue accent, instead of random clashing colors */
 .skill-card:nth-child(1) .skill-level{
     background: rgba(52, 152, 219, 0.12);
     border-color: #3498db;
